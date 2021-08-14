@@ -43,7 +43,14 @@ h1{
 .pressed{
   box-shadow: 0 0 20px white;
   background-color: grey;
+}
 
+.start{
+  margin-top: 40Px;
+  width: 30%;
+  height: 60px;
+  border-radius: 20px;
+  font-size: 2rem;
 }
 
 footer{
